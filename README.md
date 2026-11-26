@@ -32,4 +32,4 @@ A collection of 12 Artificial Intelligence lab practicals implemented using Pyth
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/kethanarendra-980/Ai_practicals.git
+   git remote add origin https://github.com/chongavvsatyanarayana-create/Ai_practicals.git
